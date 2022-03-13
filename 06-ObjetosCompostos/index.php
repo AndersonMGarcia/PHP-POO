@@ -57,6 +57,7 @@
             "EUA",
             30,1.81,105.7,12,2,4
         );
+        $lutador[0]->apresentar();
         $lutador[0]->perderLuta();
         $lutador[0]->status();
         $lutador[1]->status();
